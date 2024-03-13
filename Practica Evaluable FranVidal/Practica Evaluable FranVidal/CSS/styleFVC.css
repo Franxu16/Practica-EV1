@@ -1,0 +1,51 @@
+html{
+    font-family: Arial;
+}
+body{
+    background-color: rgb(245, 72, 72);
+}
+section{
+    display: flex;
+}
+footer{
+    display: flex;
+}
+button{
+    display: flex;
+}
+.cabecera{
+    text-align: center;
+}
+.seccion1{
+    align-items: center;
+    justify-content: center;
+}
+.seccion2{
+    align-items: center;
+    justify-content: center;
+}
+.SA1{
+    width: 25%;
+    background-color: rgba(0, 0, 0, 0.249);
+    border-radius: 15px;
+    padding: 10px;
+    color: white;
+    margin-left: 10px;
+}
+.pie{
+    align-items: center;
+    justify-content: center;
+    
+}
+.disclaimer{
+    align-items: center;
+    justify-content: center;
+    background-color: rgba(0, 0, 0, 0.249);
+    color: white;
+    width: 10%;
+    border-radius: 15px;
+    padding: 10px;
+}
+.menu1{
+    margin-right: 10px;
+}
